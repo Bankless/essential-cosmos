@@ -20,6 +20,9 @@ export const cosmosNetworks = {
   secret: {
     prefix: 'secret1',
   },
+  persistence: {
+    prefix: 'persistence1',
+  },
 } as const;
 
 // remove all network prefixes from any cosmos chain address
@@ -45,3 +48,4 @@ export const isOsmosisAddress = buildChainAddressValidator('osmosis');
 export const isJunoAddress = buildChainAddressValidator('juno');
 export const isSecretAddress = buildChainAddressValidator('secret');
 export const isRegenAddress = buildChainAddressValidator('regen');
+export const isPersistenceAddress = buildChainAddressValidator('persistence');
