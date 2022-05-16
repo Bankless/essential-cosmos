@@ -73,3 +73,6 @@ isCosmosAddress('osmo100a325n9ct4m2egvctrh48zheg2hwl5lr26rzy');
 ```
 
 </details>
+
+## Support List
+
