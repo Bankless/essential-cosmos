@@ -73,3 +73,55 @@ isCosmosAddress('osmo100a325n9ct4m2egvctrh48zheg2hwl5lr26rzy');
 ```
 
 </details>
+
+## Support List
+
+- isCosmosAddress
+- isJunoAddress
+- isOsmosisAddress
+- isPersistenceAddress
+- isAgoricAddress
+- isAkashAddress
+- isAssetMantleAddress
+- isAxelarAddress
+- isBandProtocolAddress
+- isBitCannaAddress
+- isBitsongAddress
+- isCarbonAddress
+- isCerberusAddress
+- isCertikAddress
+- isCheqdAddress
+- isChihuahuaAddress
+- isComdexAddress
+- isCrescentAddress
+- isCronosAddress
+- isDecentrAddress
+- isDigAddress
+- isEvmosAddress
+- isFetchaiAddress
+- isFirmachainAddress
+- isGalaxyAddress
+- isGravityBridgeAddress
+- isInjectiveAddress
+- isIrisAddress
+- isIxoAddress
+- isKavaAddress
+- isKiAddress
+- isKonstellationAddress
+- isLikeCoinAddress
+- isLumAddress
+- isMediblocAddress
+- isMemeAddress
+- isMicrotickAddress
+- isOraichainAddress
+- isProvenanceAddress
+- isRegenAddress
+- isRizonAddress
+- isSecretAddress
+- isSentinelAddress
+- isSifchainAddres
+- isStarnameAddress
+- isTerraAddress
+- isUmeeAddress
+- isVidulumAddress
+- isStargazeAddress

@@ -47,8 +47,8 @@
     }
   },
   "lint-staged": {
-    "*.{js,jsx,ts,tsx,css,scss,md,json,html,yml,yaml}": [
-      "prettier --write"
+    "*": [
+      "prettier -u --write"
     ]
   },
   "prettier": {
