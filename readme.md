@@ -20,7 +20,7 @@
 - ʦ Fully typed with TypeScript (also works with JavaScript)
 - 🌲 Tree-shaking and no side-effects
 - 🙌 Supports multiple JS versions (CommonJS and ESM)
-  - ✅ Node 16, 14, 12, & 10
+  - ✅ Node 18, 16, 14, & 12
   - ✅ Web
 
 <br/>
